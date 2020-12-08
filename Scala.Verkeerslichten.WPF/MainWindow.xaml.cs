@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Prb.Verkeerslichten.WPF
+namespace Scala.Verkeerslichten.Wpf
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

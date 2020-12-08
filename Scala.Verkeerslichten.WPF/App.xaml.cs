@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Prb.Verkeerslichten.WPF
+namespace Scala.Verkeerslichten.Wpf
 {
     /// <summary>
     /// Interaction logic for App.xaml
